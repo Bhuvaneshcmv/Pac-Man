@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: 6df567d7609e6bd4a859c8a19b15b661
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6613427847742333393
+    second: pacmansprites2_0
+  - first:
+      213: 8133084401085485891
+    second: pacmansprites2_1
+  - first:
+      213: 3799246284910061988
+    second: pacmansprites2_2
+  - first:
+      213: -8376052802010614459
+    second: pacmansprites2_3
+  - first:
+      213: -5505332943627932686
+    second: pacmansprites2_4
+  - first:
+      213: -5784960858203795733
+    second: pacmansprites2_5
+  - first:
+      213: 1232779456697667563
+    second: pacmansprites2_6
+  - first:
+      213: -3400774023157528230
+    second: pacmansprites2_7
+  - first:
+      213: -3021919802532532126
+    second: pacmansprites2_8
+  - first:
+      213: -2346579995381280542
+    second: pacmansprites2_9
+  - first:
+      213: -1585112453712469073
+    second: pacmansprites2_10
+  - first:
+      213: -8988054190705657110
+    second: pacmansprites2_11
+  - first:
+      213: 1883268940965243595
+    second: pacmansprites2_12
+  - first:
+      213: 5952262455711158699
+    second: pacmansprites2_13
+  - first:
+      213: -623599277418799510
+    second: pacmansprites2_14
+  - first:
+      213: 7894195542260025064
+    second: pacmansprites2_15
+  - first:
+      213: 3038350404695133281
+    second: pacmansprites2_16
+  - first:
+      213: -4893190114176569379
+    second: pacmansprites2_17
+  - first:
+      213: -8524946962744093704
+    second: pacmansprites2_18
+  - first:
+      213: 2429086500141346895
+    second: pacmansprites2_19
+  - first:
+      213: -991147499473814770
+    second: pacmansprites2_20
+  - first:
+      213: -8503284674016135925
+    second: pacmansprites2_21
+  - first:
+      213: 7856321567273560695
+    second: pacmansprites2_22
+  - first:
+      213: 5456093710840624304
+    second: pacmansprites2_23
+  - first:
+      213: -5030487601028983401
+    second: pacmansprites2_24
+  - first:
+      213: -4714493912192285275
+    second: pacmansprites2_25
+  - first:
+      213: 3351059316616456855
+    second: pacmansprites2_26
+  - first:
+      213: 2871232940495920074
+    second: pacmansprites2_27
+  - first:
+      213: 6668684460256234997
+    second: pacmansprites2_28
+  - first:
+      213: -3772595708164078524
+    second: pacmansprites2_29
+  - first:
+      213: 5154146810850840035
+    second: pacmansprites2_30
+  - first:
+      213: 3931792297780874786
+    second: pacmansprites2_31
+  - first:
+      213: 6055712015842683495
+    second: pacmansprites2_32
+  - first:
+      213: -1804315947877420029
+    second: pacmansprites2_33
+  - first:
+      213: 3054865122424684128
+    second: pacmansprites2_34
+  - first:
+      213: -4779672087167769326
+    second: pacmansprites2_35
+  - first:
+      213: -2666840947490205332
+    second: pacmansprites2_36
+  - first:
+      213: -2648001346872048602
+    second: pacmansprites2_37
+  - first:
+      213: -1454491614860542387
+    second: pacmansprites2_38
+  - first:
+      213: 4464702922036789031
+    second: pacmansprites2_39
+  - first:
+      213: 1896272247580169191
+    second: pacmansprites2_40
+  - first:
+      213: -7319337291000321139
+    second: pacmansprites2_41
+  - first:
+      213: 6220912536320989973
+    second: pacmansprites2_42
+  - first:
+      213: 7940398667325550265
+    second: pacmansprites2_43
+  - first:
+      213: -1674987976067249898
+    second: pacmansprites2_44
+  - first:
+      213: -5105129862293276170
+    second: pacmansprites2_45
+  - first:
+      213: 5391072434192979330
+    second: pacmansprites2_46
+  - first:
+      213: -5122938132094283636
+    second: pacmansprites2_47
+  - first:
+      213: -5343145668640802582
+    second: pacmansprites2_48
+  - first:
+      213: 5448413623407934648
+    second: pacmansprites2_49
+  - first:
+      213: 298095455830338017
+    second: pacmansprites2_50
+  - first:
+      213: 5714573077355053952
+    second: pacmansprites2_51
+  - first:
+      213: 5674627395661569230
+    second: pacmansprites2_52
+  - first:
+      213: -7025878462651605216
+    second: pacmansprites2_53
+  - first:
+      213: 5471511417161270474
+    second: pacmansprites2_54
+  - first:
+      213: 5375931837860368054
+    second: pacmansprites2_55
+  - first:
+      213: 3486386926996469885
+    second: pacmansprites2_56
+  - first:
+      213: 2605798302246828400
+    second: pacmansprites2_57
+  - first:
+      213: 8788453710361958640
+    second: pacmansprites2_58
+  - first:
+      213: 4461045447029058292
+    second: pacmansprites2_59
+  - first:
+      213: 8486450118042281498
+    second: pacmansprites2_60
+  - first:
+      213: -2235396362187403133
+    second: pacmansprites2_61
+  - first:
+      213: 8712400899415719521
+    second: pacmansprites2_62
+  - first:
+      213: 1095456408950062156
+    second: pacmansprites2_63
+  - first:
+      213: -3237918749723960802
+    second: pacmansprites2_64
+  - first:
+      213: -8205219629828764168
+    second: pacmansprites2_65
+  - first:
+      213: 1536586609628714156
+    second: pacmansprites2_66
+  - first:
+      213: 1881086185987245635
+    second: pacmansprites2_67
+  - first:
+      213: -2624331283389312736
+    second: pacmansprites2_68
+  - first:
+      213: 3190200719608780228
+    second: pacmansprites2_69
+  - first:
+      213: -5260834357724018606
+    second: pacmansprites2_70
+  - first:
+      213: 1443892606287394684
+    second: pacmansprites2_71
+  - first:
+      213: -3291500860913130018
+    second: pacmansprites2_72
+  - first:
+      213: -2584375905702524727
+    second: pacmansprites2_73
+  - first:
+      213: 583896739552836976
+    second: pacmansprites2_74
+  - first:
+      213: 3744305104187020241
+    second: pacmansprites2_75
+  - first:
+      213: -2975245713353357024
+    second: pacmansprites2_76
+  - first:
+      213: 4382184013754268367
+    second: pacmansprites2_77
+  - first:
+      213: -4662755410614550275
+    second: pacmansprites2_78
+  - first:
+      213: 5138567085717001969
+    second: pacmansprites2_79
+  - first:
+      213: -4902432328437320724
+    second: pacmansprites2_80
+  - first:
+      213: -3131953087574794551
+    second: pacmansprites2_81
+  - first:
+      213: 2371720460936019407
+    second: pacmansprites2_82
+  - first:
+      213: 9175632588501088845
+    second: pacmansprites2_83
+  - first:
+      213: 7686724963837726048
+    second: pacmansprites2_84
+  - first:
+      213: -9057281112923527738
+    second: pacmansprites2_85
+  - first:
+      213: 4639064652659861824
+    second: pacmansprites2_86
+  - first:
+      213: -1393408266919600788
+    second: pacmansprites2_87
+  - first:
+      213: 8577947982251547529
+    second: pacmansprites2_88
+  - first:
+      213: 7929516366735635496
+    second: pacmansprites2_89
+  - first:
+      213: -3146045068172210269
+    second: pacmansprites2_90
+  - first:
+      213: 6898317343696588369
+    second: pacmansprites2_91
+  - first:
+      213: 1878901398259791094
+    second: pacmansprites2_92
+  - first:
+      213: -3121333750186538835
+    second: pacmansprites2_93
+  - first:
+      213: 5291516342800551495
+    second: pacmansprites2_94
+  - first:
+      213: -5558076221065836938
+    second: pacmansprites2_95
+  - first:
+      213: 2185871035982157960
+    second: pacmansprites2_96
+  - first:
+      213: 4080692516174491474
+    second: pacmansprites2_97
+  - first:
+      213: 130318959103306245
+    second: pacmansprites2_98
+  - first:
+      213: 1112128188871036616
+    second: pacmansprites2_99
+  - first:
+      213: 9204355898460083985
+    second: pacmansprites2_100
+  - first:
+      213: -2955948379273895227
+    second: pacmansprites2_101
+  - first:
+      213: 6146184088853671818
+    second: pacmansprites2_102
+  - first:
+      213: -1721993656569775108
+    second: pacmansprites2_103
+  - first:
+      213: 1988370136882208086
+    second: pacmansprites2_104
+  - first:
+      213: -3479934264915738785
+    second: pacmansprites2_105
+  - first:
+      213: 7496100933708120449
+    second: pacmansprites2_106
+  - first:
+      213: -3759491066137663337
+    second: pacmansprites2_107
+  - first:
+      213: -5848046698114021903
+    second: pacmansprites2_108
+  - first:
+      213: 3039497831395228677
+    second: pacmansprites2_109
+  - first:
+      213: -3406093553475054216
+    second: pacmansprites2_110
+  - first:
+      213: -514249069007498529
+    second: pacmansprites2_111
+  - first:
+      213: 7613564063499146780
+    second: pacmansprites2_112
+  - first:
+      213: 3137222162466754547
+    second: pacmansprites2_113
+  - first:
+      213: -4516975791036891484
+    second: pacmansprites2_114
+  - first:
+      213: -7694592554646364959
+    second: pacmansprites2_115
+  - first:
+      213: 7550690456894838813
+    second: pacmansprites2_116
+  - first:
+      213: -7725423442779284402
+    second: pacmansprites2_117
+  - first:
+      213: -3517273032929762619
+    second: pacmansprites2_118
+  - first:
+      213: -593305719373777149
+    second: pacmansprites2_119
+  - first:
+      213: -3806166148265564659
+    second: pacmansprites2_120
+  - first:
+      213: -4362529226645755282
+    second: pacmansprites2_121
+  - first:
+      213: -7599272343249507625
+    second: pacmansprites2_122
+  - first:
+      213: -8968143103314839506
+    second: pacmansprites2_123
+  - first:
+      213: 4746698201292703760
+    second: pacmansprites2_124
+  - first:
+      213: 8785604900207802978
+    second: pacmansprites2_125
+  - first:
+      213: 8801954871778314655
+    second: pacmansprites2_126
+  - first:
+      213: 8705855358462798710
+    second: pacmansprites2_127
+  - first:
+      213: 7586031060730852523
+    second: pacmansprites2_128
+  - first:
+      213: -4653164534372822696
+    second: pacmansprites2_129
+  - first:
+      213: 8028639691891020472
+    second: pacmansprites2_130
+  - first:
+      213: -4355215024591226571
+    second: pacmansprites2_131
+  - first:
+      213: 5137482768532053326
+    second: pacmansprites2_132
+  - first:
+      213: -6152254911663348123
+    second: pacmansprites2_133
+  - first:
+      213: -4430900669462970789
+    second: pacmansprites2_134
+  - first:
+      213: -647091982074057678
+    second: pacmansprites2_135
+  - first:
+      213: 1293805187052103060
+    second: pacmansprites2_136
+  - first:
+      213: 4914470532699748036
+    second: pacmansprites2_137
+  - first:
+      213: 4332423436262302338
+    second: pacmansprites2_138
+  - first:
+      213: 5980990909564740263
+    second: pacmansprites2_139
+  - first:
+      213: -5437289119423430847
+    second: pacmansprites2_140
+  - first:
+      213: -4498775862937152042
+    second: pacmansprites2_141
+  - first:
+      213: -3837957257319414330
+    second: pacmansprites2_142
+  - first:
+      213: -385700190714782141
+    second: pacmansprites2_143
+  - first:
+      213: 3035763295242693689
+    second: pacmansprites2_144
+  - first:
+      213: 2259888816505140885
+    second: pacmansprites2_145
+  - first:
+      213: -7884885302548635115
+    second: pacmansprites2_146
+  - first:
+      213: -7767205236294387270
+    second: pacmansprites2_147
+  - first:
+      213: -8772286279730981336
+    second: pacmansprites2_148
+  - first:
+      213: 2557033956059466873
+    second: pacmansprites2_149
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pacmansprites2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ab5c869d97cb50800000000000000
+      internalID: 6613427847742333393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 202
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34398fefb258ed070800000000000000
+      internalID: 8133084401085485891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 227
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9694aed52a9b430800000000000000
+      internalID: 3799246284910061988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 227.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545fd34da5842cb80800000000000000
+      internalID: -8376052802010614459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 242
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2dc43bd02993b0800000000000000
+      internalID: -5505332943627932686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 171.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c1544b060ec0d0800000000000000
+      internalID: -3400774023157528230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 171.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260745e43fbff06d0800000000000000
+      internalID: -3021919802532532126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 202
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0d24a4de54f6fd0800000000000000
+      internalID: -2346579995381280542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ab632f9c800ae0800000000000000
+      internalID: -1585112453712469073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 115.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea37059554044380800000000000000
+      internalID: -8988054190705657110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca62c2bf17b22a10800000000000000
+      internalID: 1883268940965243595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 115.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1de82ca2faa9250800000000000000
+      internalID: 5952262455711158699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 163
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e134bd2c78857f0800000000000000
+      internalID: -623599277418799510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e681eb3501dd8d60800000000000000
+      internalID: 7894195542260025064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 59.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c840f58936a2a20800000000000000
+      internalID: 3038350404695133281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf6d023485e71cb0800000000000000
+      internalID: -4893190114176569379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 59.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d79c87ed41b980800000000000000
+      internalID: -8524946962744093704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 59.2
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f403f915d49d5b120800000000000000
+      internalID: 2429086500141346895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.2000008
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb8ddb99cbe32f0800000000000000
+      internalID: -991147499473814770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3.2000008
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05be3d24a34ef980800000000000000
+      internalID: -8503284674016135925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3.2000008
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa49247d2470d60800000000000000
+      internalID: 7856321567273560695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3.2000008
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4f5e78250f7bb40800000000000000
+      internalID: 5456093710840624304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacmansprites2_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3.2000008
+        width: 64.8
+        height: 56.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79519a5fd2e103ab0800000000000000
+      internalID: -5030487601028983401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
